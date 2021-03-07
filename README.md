@@ -14,3 +14,6 @@ conda install pytorch torchvision -c pytorch
 pip install syft
 ```
 
+## Section 1 Differential Privacy 
+
+
